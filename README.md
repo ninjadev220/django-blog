@@ -8,4 +8,5 @@
 <li> Pillow = 5.4.1 </li>
 <li> argon2 </li>
 <li> argon2_cffi </li>
+<li> <a href="https://summernote.org/getting-started/" target="_blank" > Summernote </a></li>
 </ul>
